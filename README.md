@@ -66,6 +66,9 @@ A suggested BibTeX entry:
   author       = {Marek Hubka},
   title        = {Dimensional Collapse Theory and the Law of Transdimensional Thermodynamics},
   year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16152610},
+  url          = {https://doi.org/10.5281/zenodo.16152610}
 }
 ```
 
