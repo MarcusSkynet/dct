@@ -5,6 +5,7 @@
 **Author:** Marek Hubka  
 **Version:** 1.0 (June 2025)  
 
+[![DOI](https://zenodo.org/badge/1022554057.svg)](https://doi.org/10.5281/zenodo.16152610)
 ![Code License](https://img.shields.io/badge/code-MIT-blue.svg)
 ![Dcos License](https://img.shields.io/badge/docs-CC--BY--NC--ND%204.0-lightgrey.svg)
 
